@@ -38,3 +38,4 @@ I made 3 tables for my app, User, Tweet and Porifle. User stores the user inform
 - avatar
 - edit ability
 - About me
+- Country
